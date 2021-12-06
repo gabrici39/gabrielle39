@@ -15,9 +15,9 @@ I am currently a student at Columbia University 👩‍🎓
 ![](https://img.shields.io/badge/<Rstudio>-<Advanced>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 # Work experience
-<!-- I used to work in Apple and Bytedance as intern.-->
+I used to work in Apple and Bytedance as intern.
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+🍎
 
 # Contact me 📮
 📧 rg3324@columbia.edu
